@@ -1,6 +1,6 @@
 # IIA-TP1
 Reactive D31: The AI Awakens
 
-Trabalho realizado por: Diogo Cota, João Nunes e Raul Nogueira
+Trabalho prático de Introdução à Inteligência Artificial 2019/2020 sobre agentes reativos
 
-Nota obtida no trabalho: 93%
+Autores: Diogo Cota, João Nunes e Raul Nogueira
